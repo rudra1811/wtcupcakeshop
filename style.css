@@ -1,0 +1,32 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Navbar Styling */
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Hero Section Styling */
+.hero {
+    height: 80vh;
+    background: url('assets/cupcake-bg.jpg') no-repeat center center/cover;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.hero p {
+    font-size: 1.25rem;
+}
+
+/* About Section Styling */
+.about-section {
+    background-color: #f8f9fa;
+}
+
+.about-section h2 {
+    color: #ff66b2;
+}
